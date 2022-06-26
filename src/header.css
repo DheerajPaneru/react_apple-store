@@ -1,0 +1,36 @@
+
+
+.header{
+    background-color: rgb(68, 60, 60);
+}
+.lo img{
+    height: 90px;
+    width: 100px;
+    border-radius: 123px;
+}
+.nvbar{
+    margin: 9px;
+    text-decoration: none;
+}
+.text-info{
+    font-size: 1rem;
+}
+.toogle{
+    margin-left: 300px;
+}
+.logo img{
+    width: 70px;
+    height: 60px;
+    border-radius: 92px;
+}
+@media (min-width:290px){
+    .toogle{
+        margin-left: auto;
+    }
+}
+.hj{
+background-color: aqua;
+}
+.fg{
+    font-size: 1.5rem;
+}
